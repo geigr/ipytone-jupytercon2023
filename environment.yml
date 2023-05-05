@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - ipytone>=0.5.1
+  - ipywidgets>=7.6
+  - ipyleaflet
+  - ipycanvas
+  - bqplot
+  - jupyterlab=3
+  - jupyterlab-daw
+  - numpy
+  - matplotlib-base
+  - scikit-image
+  - xarray
+  - netcdf4
